@@ -11,7 +11,7 @@
 
 [rewrite_local]
 
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/bhcmht1011/txsr/main/Scanner.js
 
 [mitm] 
 hostname = buy.itunes.apple.com
