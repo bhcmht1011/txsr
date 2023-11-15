@@ -9,7 +9,7 @@
 
 ^https://newdrugs.dxy.cn url script-request-header https://raw.githubusercontent.com/bhcmht1011/txsr/main/yyzscook.js
 
-https://newdrugs.dxy.cn/app/user/pro/stat? url script-response-body https://raw.githubusercontent.com/Yu9191/Script/main/yyzs2.js
+https://newdrugs.dxy.cn/app/user/pro/stat? url script-response-body https://raw.githubusercontent.com/bhcmht1011/txsr/main/yyzs2.js
 
 [mitm]
 hostname = newdrugs.dxy.cn
